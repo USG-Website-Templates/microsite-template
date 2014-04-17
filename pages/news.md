@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Source News"
+title: "Site News"
 ---
 
 
