@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Page2 Checklist"
+title: "subpage2 Checklist"
 
 foo: "bar"
 ok: '<span style="color:green;font-size:150%">&#x2713;</span>'
