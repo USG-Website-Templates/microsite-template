@@ -1,6 +1,6 @@
 ---
 layout: default
-title: United States Open Source Program
+title: Project Name
 published: true
 ---
 
