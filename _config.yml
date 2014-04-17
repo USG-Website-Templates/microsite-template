@@ -8,7 +8,7 @@ pygments: true
 repo_name: microsite-template
 branch: gh-pages
 #GitHub organization name *or* username
-gh_org: virtix
+gh_org: USG-Website-Templates
 prose_url: http://prose.io
 site_url: https://USG-Website-Templates.github.io/microsite-template
 media: assets/img
