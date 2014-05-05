@@ -1,8 +1,6 @@
 # Open Source Program Template
 
-This is a set of templates and artifacts intended to help organizations bootstrap an open source program.
-
-<img src="https://raw.github.com/virtix/open-source-program-template/gh-pages/assets/img/screenshot.png">
+This is a template for an advanced microsite.  
 
 ----
 
@@ -16,22 +14,13 @@ Please refer to those sites for information on getting started and configuration
 _some_ configuration here and, where practical, will refer you to details.
 
 
-
 ### Getting started
 
 - Clone this repo
 - Set ```gh-pages``` as the default branch
-- Point your web browser to http://username.github.io/open-source-program-template 
-- The default home page has detailed instructions on configuring the site
+- Point your web browser to http://username.github.io/microsite-template 
+- The "How to Configure This Site" page has detailed instruction~s on configuring the site
 - Edit content with your favorite editor or prose.io
-
-To run and edit locally
-- Ensure you have [Jekyll installed](http://jekyllrb.com/docs/installation/) 
-- Clone your repo locally: ```git clone git@github.com:YOUR_ACCOUNT/open-source-program-template.git```
-- ```cd``` into your working directory: ```cd open-source-program-template```
-- Run Jekyll, setting the ```baseurl``` to an empty string: ```jekyll serve --watch --baseurl ''```
-- Edit the files in the editor of your choice
-
 
 ----
 
