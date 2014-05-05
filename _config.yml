@@ -39,8 +39,8 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Guiding Principles
-  url: pages/guiding_principles.html
+- text: Page with Footnotes
+  url: pages/page_with_footnotes.html
   internal: true
 - text: Open Source Policy
   url: pages/oss_policy.html
