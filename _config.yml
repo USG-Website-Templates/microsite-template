@@ -42,19 +42,16 @@ navigation:
 - text: Page with Footnotes
   url: pages/page_with_footnotes.html
   internal: true
-- text: Open Source Policy
-  url: pages/oss_policy.html
+- text: Sample Page
+  url: pages/sample_page.html
   internal: true
 - text: News
   url: pages/news.html
   internal: true
-- text: Open By Default
-  url: pages/open_by_default.html
-  internal: true
 - text: FAQs
   url: pages/faq.html
   internal: true 
-- text: Processes &amp; Procedures
+- text: Another Sample Page
   url: pages/workflows.html
   internal: true
 - text: References
