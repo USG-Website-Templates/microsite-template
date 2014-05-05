@@ -63,12 +63,3 @@ items and ensure they are addressed.
 - [ ] **Is there a screenshot in the `README`, if applicable?**
 
 {% endhighlight %}
-
-----
-
-
-## Take a look at the following projects as good models to follow:
-
- - [https://github.com/cfpb/qu](https://github.com/cfpb/qu)
- - [https://github.com/cfpb/cf-component-demo](https://github.com/cfpb/cf-component-demo)
-
