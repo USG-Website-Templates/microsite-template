@@ -51,7 +51,7 @@ navigation:
 - text: FAQs
   url: pages/faq.html
   internal: true 
-- text: Another Sample Page
+- text: Sample with SubPages
   url: pages/workflows.html
   internal: true
 - text: References
